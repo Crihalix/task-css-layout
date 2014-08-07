@@ -338,6 +338,7 @@ a:hover{
 .navigation-gal li.current{
 	background:#33333b;
 	box-shadow:0 3px rgba(0,0,0,0.2);
+	cursor:default;
 }
 .navigation-gal li:hover{
 	background:#33333b;
